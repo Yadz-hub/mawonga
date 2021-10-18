@@ -1006,7 +1006,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 60px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../../images/img_background_pic.jpeg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
